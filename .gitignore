@@ -1,0 +1,3 @@
+*.o
+*.dirstamp
+autom4te.cache
